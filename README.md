@@ -1,7 +1,7 @@
 # Mini-Project_DADS5001_Pajaya_6420422028
 
-   • Topic : ทิศทางราคาค่าไฟฟ้าและปัจจัยที่เกี่ยวข้อง
-   • Dataset :
+# Topic : ทิศทางราคาค่าไฟฟ้าและปัจจัยที่เกี่ยวข้อง
+# Dataset :
              -  การใช้ไฟฟ้าของทั้งประเทศ (จำแนกตามสาขา) >> 1730 rows, 5 columns
              -  ค่า Ft >> 22 rows, 13 columns
              -  Power Generation by Type of Fuel >> 8 rows, 14 columns
