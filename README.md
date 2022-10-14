@@ -34,6 +34,7 @@
        http://www.eppo.go.th/index.php/en/en-energystatistics/petroleumprice-statistic
 - EGAT
 
+
        https://www.egat.co.th/ft/ft_sep65-dec65/12002022120044%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9F%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%20ft%20%E0%B8%87%E0%B8%A7%E0%B8%94%20%E0%B8%81.%E0%B8%A2.-%E0%B8%98.%E0%B8%84.65%20%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9F%E0%B8%B1%E0%B8%87%2012-25%20%E0%B8%81.%E0%B8%84.%2065_final.pdf
 
        https://www.egat.co.th/home/egat-price/
@@ -41,4 +42,4 @@
 
        https://www.erc.or.th/th
 
-
+# Journey การทำงานกับข้อมูล >> อยู่ในไฟล์แนบชื่อ "JOURNEY_Mini-Project" ค่ะ 
